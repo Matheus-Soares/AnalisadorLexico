@@ -3,9 +3,13 @@
 Analisador léxico de uma gramática fictícia denominada Blocky
 
   lexical.py  --> código fonto
+  
   Manual.pdf  --> Manual da linguagem
+  
   /exemplos   --> Exemplos de códigos escritos na linguagem fictícia
+  
   Autômato    --> Analisador Léxico.png --> Automato da gramática
+  
   tokens.csv  --> lista de tokens
   
 ## Para executar
